@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8569253d-2fc6-4e6f-aa75-c751b38a7ec5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/TestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/ClassicalMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/TestBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/albert/clinic/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,16 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/alber/Clinic",
-    "spring.configuration.checksum": "9d08ac5ef94ce646ed311540f856865f"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alber/Clinic&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9d08ac5ef94ce646ed311540f856865f&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.albert.clinic.TestSpring" />
@@ -80,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1716981714816</updated>
       <workItem from="1716981718022" duration="2153000" />
-      <workItem from="1716985627672" duration="1869000" />
+      <workItem from="1716985627672" duration="2518000" />
+      <workItem from="1717093232303" duration="2201000" />
     </task>
     <servers />
   </component>
